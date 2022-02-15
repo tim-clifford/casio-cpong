@@ -1,3 +1,9 @@
+
+
+| :exclamation:  | This is a mirror of [https://git.sr.ht/~tim-clifford/casio-cpong](https://git.sr.ht/~tim-clifford/casio-cpong). Please refrain from using GitHub's issue and PR system.  |
+|----------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
 # casio-cpong
 PONG Written in C for the casio fx9860gii calculator
 
